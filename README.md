@@ -4,16 +4,10 @@
   <img src="https://profile-counter.glitch.me/Benjis99/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Benjis99/Benjis99/output/snake.svg" alt="Snake animation" />
-
-###
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Benji99s/benji99s/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Benji99s/benji99s/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Benji99s/benji99s/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Benjis99/benjis99/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Benjis99/benjis99/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Benjis99/benjis99/output/github-snake.svg" />
 </picture>
 
 <div align="left">
